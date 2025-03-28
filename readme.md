@@ -54,7 +54,7 @@ The dashboard is hosted on Power BI Service, but I have also provided the .pbix 
 Our airline data analysis reveals key operational trends and performance gaps. Enhancing flight management and customer service is essential, with a focus on improving ticket confirmations and flight conditions.
 
 #### Key Recommendations:
-**Increase Operations in Houston**: Airline B and Airline D should expand their presence, as they currently operate only 6 and 9 flights, respectively, despite high demand.
-**Enhance Punctuality & Reduce Cancellations**: With only 41% of flights arriving on time, improving scheduling efficiency and minimizing delays is crucial.
+1. **Increase Operations in Houston**: Airline B and Airline D should expand their presence, as they currently operate only 6 and 9 flights, respectively, despite high demand.
+2. **Enhance Punctuality & Reduce Cancellations**: With only 41% of flights arriving on time, improving scheduling efficiency and minimizing delays is crucial.
 
 Implementing these changes will optimize operations and enhance passenger experience.
